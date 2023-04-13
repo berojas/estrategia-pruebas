@@ -20,4 +20,12 @@ Puedes poner una imagen acompañado del texto
 Puedes añadir las tarjetas en el botón “añadir tarjetas cifras”, **solo puedes añadir tarjetas 2 por columna**.
 ![bloque franja cifras](../assets/img/bloque_cifras.jpg "Bloque franja cifras")
 
-  
+### 3. **Bloque Franja Cifras**
+
+Puedes añadir las tarjetas en el botón “añadir tarjetas cifras”, **solo puedes añadir tarjetas 2 por columna**.
+![bloque franja cifras](../assets/img/bloque_cifras.JPG "Bloque franja cifras")
+
+### 3. **Bloque imagen**
+
+solo es para una imagen, pero debes colocar los diferentes tipos de resoluciones que te solicita para cada tipo de dispositivos que se indican allí
+![bloque imagen](../assets/img/bloque_imagen.jpg "Bloque imagen")
