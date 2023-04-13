@@ -15,4 +15,9 @@ Está diseñado para la cabecera de los basic page, puedes agregar la cantidad d
 Puedes poner una imagen acompañado del texto
 ![bloque descripción](../assets/img/bloque_descripcion.jpg "Bloque descripción")
 
+### 3. **Bloque Franja Cifras**
+
+Puedes añadir las tarjetas en el botón “añadir tarjetas cifras”, **solo puedes añadir tarjetas 2 por columna**.
+![bloque franja cifras](../assets/img/bloque_cifras.jpg "Bloque franja cifras")
+
   
