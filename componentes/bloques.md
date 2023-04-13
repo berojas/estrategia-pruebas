@@ -8,12 +8,11 @@ Está diseñado para la cabecera de los basic page, puedes agregar la cantidad d
 * Primer slide
 ![primer slide](../assets/img/bloque_primer_slide.jpg "Primer slide")
 * Segundo slide
-![primer slide](../assets/img/bloque_segundo_slide.jpg "Primer slide")
+![segundo slide](../assets/img/bloque_segundo_slide.jpg "Segundo slide")
   
 ### 2. **Bloque descripción**
 
 Puedes poner una imagen acompañado del texto
-    
-  ![bloque descripción](../assets/img/bloque_primer_slide.jpg "Primer slide")
+![bloque descripción](../assets/img/bloque_descripcion.jpg "Bloque descripción")
 
   
