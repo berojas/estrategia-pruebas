@@ -6,14 +6,13 @@ sections:
 - Bloque Franja Cifras
 - Bloque imagen
 - Banner slider
-
+- CSS
 ---
 
-{: .callout-title}
 ## Diseño de bloques
 En este capítulo se explica los diferentes tipos de diseños que hay para cada vista 
 
-{: #1-bannerxd-slider}
+{: #css}
 ### **Banner slider**
 
 Está diseñado para la cabecera de los basic page, puedes agregar la cantidad de imágenes que gustes (te pedirá también imágenes para todos los dispositivos), puedes poner un botón en cada slide si quieres que redireccione a tu lugar de preferencia **Puedes agregar la cantidad de sliders que desees**:
