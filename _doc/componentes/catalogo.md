@@ -3,16 +3,16 @@ title: Catálogo de componentes
 sections:
 - Banner slider
 - Bloque descripción
-- Bloque Franja Cifras
+- Bloque franja Cifras
 - Bloque imagen
-- Banner slider
-- CSS
+- Bloque slider tarjetas
+
 ---
 
 ## Diseño de bloques
 En este capítulo se explica los diferentes tipos de diseños que hay para cada vista 
 
-{: #css}
+
 ### **Banner slider**
 
 Está diseñado para la cabecera de los basic page, puedes agregar la cantidad de imágenes que gustes (te pedirá también imágenes para todos los dispositivos), puedes poner un botón en cada slide si quieres que redireccione a tu lugar de preferencia **Puedes agregar la cantidad de sliders que desees**:
@@ -51,6 +51,20 @@ solo es para una imagen, pero debes colocar los diferentes tipos de resoluciones
 ### **Bloque slider tarjetas**
 
 Diligencia los campos requeridos, puedes agregar las tarjetas en el botón “Añadir Tarjeta slider”. En cada tarjeta puedes cargar un video de tu preferencia.
-<a href="assets/images/bloque_imagen.jpg" data-toggle="lightbox">
-    <img class="img-responsive" src="assets/images/bloque_imagen.jpg" alt="Bloque imagen" />
+<a href="assets/images/bloque_tarjetas.jpg" data-toggle="lightbox">
+    <img class="img-responsive" src="assets/images/bloque_tarjetas.jpg" alt="Bloque Slider tarjetas" />
+</a>
+
+### **Bloque tarjetas animadas**
+
+En este bloque tienes una variedad de diseños las cuales puedes ajustar en el desplegable “Efecto visual”. **Solo puedes agregar 2 tarjetas por bloque**.
+
+* Efecto “Borde color primario”
+<a href="assets/images/bloque_animadas1.jpg" data-toggle="lightbox">
+    <img class="img-responsive" src="assets/images/bloque_animadas1.jpg" alt="Bloque tarjetas animadas" />
+</a>
+
+* Efecto “Transition on Hover”
+<a href="assets/images/bloque_animadas1.gif" data-toggle="lightbox">
+    <img class="img-responsive" src="assets/images/bloque_animadas2.gif" alt="Bloque tarjetas animadas" />
 </a>
