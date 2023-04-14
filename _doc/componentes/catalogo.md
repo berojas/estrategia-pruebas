@@ -65,6 +65,6 @@ En este bloque tienes una variedad de diseños las cuales puedes ajustar en el d
 </a>
 
 * Efecto “Transition on Hover”
-<a href="assets/images/bloque_animadas1.gif" data-toggle="lightbox">
+<a href="assets/images/bloque_animadas2.gif" data-toggle="lightbox">
     <img class="img-responsive" src="assets/images/bloque_animadas2.gif" alt="Bloque tarjetas animadas" />
 </a>
