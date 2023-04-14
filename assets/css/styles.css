@@ -1407,6 +1407,10 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
     color: #8A40A7
 }
 
+.img-responsive {
+    width: 100%;
+}
+
 @media (max-width: 767px) {
     .cards-section .item-inner {
         padding:30px 15px
