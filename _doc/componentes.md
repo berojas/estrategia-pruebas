@@ -1,5 +1,5 @@
 ---
-title: Contenido
+title: Componentes
 excerpt: Uso de los componentes
 date: 2023-04-14
 icon:
