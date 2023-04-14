@@ -48,4 +48,9 @@ solo es para una imagen, pero debes colocar los diferentes tipos de resoluciones
     <img class="img-responsive" src="assets/images/bloque_imagen.jpg" alt="Bloque imagen" />
 </a>
 
-  
+### **Bloque slider tarjetas**
+
+Diligencia los campos requeridos, puedes agregar las tarjetas en el botón “Añadir Tarjeta slider”. En cada tarjeta puedes cargar un video de tu preferencia.
+<a href="assets/images/bloque_imagen.jpg" data-toggle="lightbox">
+    <img class="img-responsive" src="assets/images/bloque_imagen.jpg" alt="Bloque imagen" />
+</a>
