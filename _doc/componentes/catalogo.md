@@ -6,6 +6,7 @@ sections:
 - Bloque franja Cifras
 - Bloque imagen
 - Bloque slider tarjetas
+- Bloque tarjetas animadas
 
 ---
 
@@ -66,5 +67,10 @@ En este bloque tienes una variedad de diseños las cuales puedes ajustar en el d
 
 * Efecto “Transition on Hover”
 <a href="assets/images/bloque_animadas2.gif" data-toggle="lightbox">
-    <img class="img-responsive" src="assets/images/bloque_animadas2.gif" alt="Bloque tarjetas animadas" />
+    <img class="img-responsive" src="assets/images/bloque_animadas2.gif" alt="Bloque tarjetas animadas Hover" />
+</a>
+
+* Efecto “Zoom Over”: 
+<a href="assets/images/bloque_animadas3.gif" data-toggle="lightbox">
+    <img class="img-responsive" src="assets/images/bloque_animadas3.gif" alt="Bloque tarjetas animadas zoom" />
 </a>
