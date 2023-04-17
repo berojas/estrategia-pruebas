@@ -11,8 +11,8 @@ sections:
 - Bloque imagen más dos textos
 - Bloque reseña
 - Bloque subtitulo y texto de la página
-- Bloque titulo
-- Bloque video
+- Título de página
+- video
 ---
 
 ## Diseño de bloques
@@ -121,14 +121,14 @@ Puedes agregar las reseñas que gustes, debes colocar imagenes con buena calidad
     <img class="img-responsive rounded" src="assets/images/bloque_resena.gif" alt="Bloque reseña" />
 </a>
 
-### **•	Título de página**
+### **Título de página**
 
 Solo debes llenar los campos requeridos.
 <a href="assets/images/bloque_titulo.jpg" data-magnify="gallery">
     <img class="img-responsive rounded" src="assets/images/bloque_titulo.jpg" alt="Bloque titulo" />
 </a>
 
-### **•	Video**
+### **Video**
 
 Puedes agregar este bloque en la cabecera de la página
 <a href="assets/images/video.jpg" data-magnify="gallery">
