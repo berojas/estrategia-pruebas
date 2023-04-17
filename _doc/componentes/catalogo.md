@@ -7,8 +7,9 @@ sections:
 - Bloque imagen
 - Bloque slider tarjetas
 - Bloque tarjetas animadas
-- Bloque Imagen + Texto + Botón
-
+- Bloque Imagen Texto Botón
+- Bloque Imagen más dos textos
+- Bloque Bloque reseña
 ---
 
 ## Diseño de bloques
@@ -77,7 +78,7 @@ En este bloque tienes una variedad de diseños las cuales puedes ajustar en el d
     <img class="img-responsive rounded" src="assets/images/bloque_animadas3.gif" alt="Bloque tarjetas animadas zoom" />
 </a>
 
-### **Bloque Imagen + Texto + Botón**
+### **Bloque Imagen Texto Botón**
 
 Tienes variedades de combinaciones ajustando el efecto visual, ubicación de la imagen, y ubicación de la imagen de fondo, a continuación, las personalizaciones que puedes hacer **( la imagen del fondo puede cambiar al lado del texto añadiendo la opción "Imagen de fondo Izquierda ó derecha dependiendo de la posición de la imagen principal )**. 
 
@@ -96,7 +97,23 @@ Tienes variedades de combinaciones ajustando el efecto visual, ubicación de la 
     <img class="img-responsive rounded" src="assets/images/imagen_texto_boton_4.jpg" alt="Bloque Imagen texto botón 3" />
 </a>
 
-### **Bloque Imagen + Texto + Botón**
+### **Bloque Imagen más dos textos**
 
-Es fácil, solo debes subir las imágenes correspondientes que te pide y agregar los textos.
+Es fácil, solo debes subir las imágenes correspondientes para cada dispositivos que te pide y agregar los textos.
+<a href="assets/images/bloque_imagen_textos.jpg" data-magnify="gallery">
+    <img class="img-responsive rounded" src="assets/images/bloque_imagen_textos.jpg" alt="Bloque Imagen más dos textos" />
+</a>
 
+### **Bloque Lista de tarjetas**
+
+Al crear un listado en la parte de “Efecto visual” DEBES dejar la opción de “Listado”, puedes agregar las tarjetas que gustes.
+<a href="assets/images/bloque_lista_tarjetas.jpg" data-magnify="gallery">
+    <img class="img-responsive rounded" src="assets/images/bloque_lista_tarjetas.jpg" alt="Bloque Lista de tarjetas" />
+</a>
+
+### **Bloque reseña**
+
+Puedes agregar las reseñas que gustes, debes colocar imagenes con buena calidad”.
+<a href="assets/images/bloque_resena.gif" data-magnify="gallery">
+    <img class="img-responsive rounded" src="assets/images/bloque_resena.gif" alt="Bloque Imagen texto botón 3" />
+</a>
