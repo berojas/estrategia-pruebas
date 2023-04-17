@@ -93,5 +93,5 @@ Tienes variedades de combinaciones ajustando el efecto visual, ubicación de la 
 
 * Ubicación de imagen “izquierda”, Imagen de fondo “Derecha”
 <a href="assets/images/imagen_texto_boton_4.jpg" data-magnify="gallery">
-    <img class="img-responsive rounded" src="assets/images/imagen_texto_boton_4.jpg" alt="Bloque Imagen texto botón 4" />
+    <img class="img-responsive rounded" src="assets/images/imagen_texto_boton_4.jpg" alt="Bloque Imagen texto botón 3" />
 </a>
