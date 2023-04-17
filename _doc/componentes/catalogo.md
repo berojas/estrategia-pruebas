@@ -75,3 +75,7 @@ En este bloque tienes una variedad de diseños las cuales puedes ajustar en el d
 <a href="assets/images/bloque_animadas3.gif" data-toggle="lightbox">
     <img class="img-responsive" src="assets/images/bloque_animadas3.gif" alt="Bloque tarjetas animadas zoom" />
 </a>
+
+<a data-magnify="gallery" data-src=""  data-group="a"  href="https://farm1.staticflickr.com/313/31812080833_297acfbbd9_z.jpg">
+    <img class="img-responsive" src="assets/images/bloque_animadas3.gif" alt="Bloque tarjetas animadas zoom" />
+</a>
