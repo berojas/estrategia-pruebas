@@ -53,7 +53,7 @@ solo es para una imagen, pero debes colocar los diferentes tipos de resoluciones
 ### **Bloque slider tarjetas**
 
 Diligencia los campos requeridos, puedes agregar las tarjetas en el botón “Añadir Tarjeta slider”. En cada tarjeta puedes cargar un video de tu preferencia.
-<a href="assets/images/bloque_tarjetas.jpg" data-toggle="lightbox">
+<a href="assets/images/bloque_tarjetas.jpg" data-magnify="gallery">
     <img class="img-responsive" src="assets/images/bloque_tarjetas.jpg" alt="Bloque Slider tarjetas" />
 </a>
 
@@ -62,20 +62,17 @@ Diligencia los campos requeridos, puedes agregar las tarjetas en el botón “A�
 En este bloque tienes una variedad de diseños las cuales puedes ajustar en el desplegable “Efecto visual”. **Solo puedes agregar 2 tarjetas por bloque**.
 
 * Efecto “Borde color primario”
-<a href="assets/images/bloque_animadas1.jpg" data-toggle="lightbox">
+<a href="assets/images/bloque_animadas1.jpg" data-magnify="gallery">
     <img class="img-responsive" src="assets/images/bloque_animadas1.jpg" alt="Bloque tarjetas animadas" />
 </a>
 
 * Efecto “Transition on Hover”
-<a href="assets/images/bloque_animadas2.gif" data-toggle="lightbox">
+<a href="assets/images/bloque_animadas2.gif" data-magnify="gallery">
     <img class="img-responsive" src="assets/images/bloque_animadas2.gif" alt="Bloque tarjetas animadas Hover" />
 </a>
 
 * Efecto “Zoom Over”: 
-<a href="assets/images/bloque_animadas3.gif" data-toggle="lightbox">
+<a href="assets/images/bloque_animadas3.gif" data-magnify="gallery">
     <img class="img-responsive" src="assets/images/bloque_animadas3.gif" alt="Bloque tarjetas animadas zoom" />
 </a>
 
-<a data-magnify="gallery" data-src=""  href="assets/images/bloque_animadas3.gif">
-    <img class="img-responsive" src="assets/images/bloque_animadas3.gif" alt="Bloque tarjetas animadas zoom" />
-</a>
