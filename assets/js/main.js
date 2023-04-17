@@ -23,7 +23,7 @@ $(document).ready(function() {
 	$('a.scrollto').on('click', function(e){
        
         //store hash
-        var target = (this.hash).replace(/[_\W]+/g, "-"));
+        var target = (this.hash).replace(/[_\W]+/g, "-");
         console.log(target);
         e.preventDefault();
 		$('body').scrollTo(target, 800, {offset: 0, 'axis':'y'});
