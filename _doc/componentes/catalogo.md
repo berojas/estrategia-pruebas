@@ -19,12 +19,12 @@ En este capítulo se explica los diferentes tipos de diseños que hay para cada 
 Está diseñado para la cabecera de los basic page, puedes agregar la cantidad de imágenes que gustes (te pedirá también imágenes para todos los dispositivos), puedes poner un botón en cada slide si quieres que redireccione a tu lugar de preferencia **Puedes agregar la cantidad de sliders que desees**:
     
 * Primer slide
-<a href="assets/images/bloque_primer_slide.jpg" data-magnify="gallery">
+<a href="assets/images/bloque_primer_slide.jpg" class="slider" data-magnify="gallery" data-group=".slider" >
     <img class="img-responsive rounded" src="assets/images/bloque_primer_slide.jpg" alt="Primer slider" />
 </a>
 
 * Segundo slide
-<a href="assets/images/bloque_segundo_slide.jpg" data-magnify="gallery">
+<a href="assets/images/bloque_segundo_slide.jpg" class="slider" data-magnify="gallery">
     <img class="img-responsive rounded" src="assets/images/bloque_segundo_slide.jpg" alt="Segundo slider" />
 </a>
 
