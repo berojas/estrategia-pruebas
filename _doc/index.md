@@ -2,7 +2,7 @@
 layout: home
 title: Home
 tagline: |
-  Guía de Estrategia web de la Dirección de Información y Tecnologías DSIT de la Universidad de Los Andes. Versión 1.0.0.
+  Guía de Estrategia web de la Universidad de Los Andes. Versión 1.0.0.
   Diseñado con el *&nbsp;*{: .fa .fa-heart} para todos
 
 heading: Comenzar es fácil!
