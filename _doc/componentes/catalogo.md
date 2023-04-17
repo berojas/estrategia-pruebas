@@ -78,7 +78,7 @@ En este bloque tienes una variedad de diseños las cuales puedes ajustar en el d
 
 ### **Bloque Imagen + Texto + Botón**
 
-Tienes variedades de combinaciones ajustando el efecto visual, ubicación de la imagen, y ubicación de la imagen de fondo, a continuación, las personalizaciones que puedes hacer ( la imagen del fondo puede cambiar al lado del texto añadiendo la opción "Imagen de fondo "Izquierda"). 
+Tienes variedades de combinaciones ajustando el efecto visual, ubicación de la imagen, y ubicación de la imagen de fondo, a continuación, las personalizaciones que puedes hacer **( la imagen del fondo puede cambiar al lado del texto añadiendo la opción "Imagen de fondo Izquierda ó derecha dependiendo de la posición de la imagen principal )**. 
 
 * Las Ubicacion de imagen “Full Width” e Imagen de fondo “Full Width” Usarlo con el efecto “SlideNav". Al pasar el cursor se mostrará el contenido
 <a href="assets/images/imagen_texto_boton_1.gif" data-magnify="gallery">
