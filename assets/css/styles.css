@@ -1411,6 +1411,10 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
     width: 100%;
 }
 
+.magnify-image {
+    width: 100% !important;
+}
+
 @media (max-width: 767px) {
     .cards-section .item-inner {
         padding:30px 15px
