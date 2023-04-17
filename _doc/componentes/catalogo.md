@@ -20,12 +20,12 @@ Está diseñado para la cabecera de los basic page, puedes agregar la cantidad d
     
 * Primer slide
 <a href="assets/images/bloque_primer_slide.jpg" data-magnify="gallery">
-    <img class="img-responsive" src="assets/images/bloque_primer_slide.jpg" alt="Primer slider" />
+    <img class="img-responsive rounded" src="assets/images/bloque_primer_slide.jpg" alt="Primer slider" />
 </a>
 
 * Segundo slide
 <a href="assets/images/bloque_segundo_slide.jpg" data-magnify="gallery">
-    <img class="img-responsive" src="assets/images/bloque_segundo_slide.jpg" alt="Segundo slider" />
+    <img class="img-responsive rounded" src="assets/images/bloque_segundo_slide.jpg" alt="Segundo slider" />
 </a>
 
 {: .bloque-descripci-C3-B3n}
@@ -33,28 +33,28 @@ Está diseñado para la cabecera de los basic page, puedes agregar la cantidad d
 
 Puedes poner una imagen acompañado del texto
 <a href="assets/images/bloque_descripcion.jpg" data-magnify="gallery">
-    <img class="img-responsive" src="assets/images/bloque_descripcion.jpg" alt="Bloque descripción" />
+    <img class="img-responsive rounded" src="assets/images/bloque_descripcion.jpg" alt="Bloque descripción" />
 </a>
 
 ### **Bloque Franja Cifras**
 
 Puedes añadir las tarjetas en el botón “añadir tarjetas cifras”, **solo puedes añadir tarjetas 2 por columna**.
 <a href="assets/images/bloque_cifras.JPG" data-magnify="gallery">
-    <img class="img-responsive" src="assets/images/bloque_cifras.JPG" alt="Bloque descripción" />
+    <img class="img-responsive rounded" src="assets/images/bloque_cifras.JPG" alt="Bloque descripción" />
 </a>
 
 ### **Bloque imagen**
 
 solo es para una imagen, pero debes colocar los diferentes tipos de resoluciones que te solicita para cada tipo de dispositivos que se indican allí
 <a href="assets/images/bloque_imagen.jpg" data-magnify="gallery">
-    <img class="img-responsive" src="assets/images/bloque_imagen.jpg" alt="Bloque imagen" />
+    <img class="img-responsive rounded" src="assets/images/bloque_imagen.jpg" alt="Bloque imagen" />
 </a>
 
 ### **Bloque slider tarjetas**
 
 Diligencia los campos requeridos, puedes agregar las tarjetas en el botón “Añadir Tarjeta slider”. En cada tarjeta puedes cargar un video de tu preferencia.
 <a href="assets/images/bloque_tarjetas.jpg" data-magnify="gallery">
-    <img class="img-responsive" src="assets/images/bloque_tarjetas.jpg" alt="Bloque Slider tarjetas" />
+    <img class="img-responsive rounded" src="assets/images/bloque_tarjetas.jpg" alt="Bloque Slider tarjetas" />
 </a>
 
 ### **Bloque tarjetas animadas**
@@ -63,16 +63,20 @@ En este bloque tienes una variedad de diseños las cuales puedes ajustar en el d
 
 * Efecto “Borde color primario”
 <a href="assets/images/bloque_animadas1.jpg" data-magnify="gallery">
-    <img class="img-responsive" src="assets/images/bloque_animadas1.jpg" alt="Bloque tarjetas animadas" />
+    <img class="img-responsive rounded" src="assets/images/bloque_animadas1.jpg" alt="Bloque tarjetas animadas" />
 </a>
 
 * Efecto “Transition on Hover”
 <a href="assets/images/bloque_animadas2.gif" data-magnify="gallery">
-    <img class="img-responsive" src="assets/images/bloque_animadas2.gif" alt="Bloque tarjetas animadas Hover" />
+    <img class="img-responsive rounded" src="assets/images/bloque_animadas2.gif" alt="Bloque tarjetas animadas Hover" />
 </a>
 
 * Efecto “Zoom Over”: 
 <a href="assets/images/bloque_animadas3.gif" data-magnify="gallery">
-    <img class="img-responsive" src="assets/images/bloque_animadas3.gif" alt="Bloque tarjetas animadas zoom" />
+    <img class="img-responsive rounded" src="assets/images/bloque_animadas3.gif" alt="Bloque tarjetas animadas zoom" />
 </a>
+
+### **Bloque tarjetas animadas**
+
+Tienes variedades de combinaciones ajustando el efecto visual, ubicación de la imagen, y ubicación de la imagen de fondo, a continuación, las personalizaciones que puedes hacer.
 
