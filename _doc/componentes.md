@@ -1,6 +1,6 @@
 ---
-title: Componentes
-excerpt: Uso de los componentes
+title: Componentes - Basic pages
+excerpt: En la guia podras encontrar los diferentes componentes para basic pages 
 date: 2023-04-14
 icon:
   type: icon
