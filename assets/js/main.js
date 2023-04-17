@@ -1,32 +1,49 @@
-"use strict";
+$(document).ready(function() {
+
+	/* ===== Affix Sidebar ===== */
+	/* Ref: http://getbootstrap.com/javascript/#affix-examples */
 
 
-/* ===== Stickyfill ===== */
-/* Ref: https://github.com/wilddeer/stickyfill */
-// Add browser support to position: sticky
+	$('#doc-menu').affix({
+        offset: {
+            top: ($('#header').outerHeight(true) + $('#doc-header').outerHeight(true)) + 45,
+            bottom: ($('#footer').outerHeight(true) + $('#promo-block').outerHeight(true)) + 75
+        }
+    });
 
-var elements = document.querySelectorAll('.sticky');
-Stickyfill.add(elements);
+    /* Hack related to: https://github.com/twbs/bootstrap/issues/10236 */
+    $(window).on('load resize', function() {
+        $(window).trigger('scroll');
+    });
 
-/* ===== Gumshoe SrollSpy ===== */
-/* Ref: https://github.com/cferdinandi/gumshoe  */
-// Initialize Gumshoe
-var spy = new Gumshoe('#doc-nav a', {
-	offset: 0 
+    /* Activate scrollspy menu */
+    $('body').scrollspy({target: '#doc-nav', offset: 100});
+
+    /* Smooth scrolling */
+	$('a.scrollto').on('click', function(e){
+        console.log(this);
+        //store hash
+        var target = this.hash;
+        e.preventDefault();
+		$('body').scrollTo(target, 800, {offset: 0, 'axis':'y'});
+		// display anchor
+		document.location = target;
+	});
+
+
+    /* ======= jQuery Responsive equal heights plugin ======= */
+    /* Ref: https://github.com/liabru/jquery-match-height */
+
+     $('#cards-wrapper .item-inner').matchHeight();
+     $('#showcase .card').matchHeight();
+
+    /* Bootstrap lightbox */
+    /* Ref: http://ashleydw.github.io/lightbox/ */
+
+    $(document).delegate('*[data-toggle="lightbox"]', 'click', function(e) {
+        e.preventDefault();
+        $(this).ekkoLightbox();
+    });
+
+
 });
-
-
-
-
-/* ====== SimpleLightbox Plugin ======= */
-/*  Ref: https://github.com/andreknieriem/simplelightbox */
-//var lightbox = new SimpleLightbox('.simplelightbox-gallery-1 a', { /* options */ });
-//var lightbox = new SimpleLightbox('.simplelightbox-gallery-2 a', {/* options */});
-//var lightbox = new SimpleLightbox('.simplelightbox-gallery-3 a', {/* options */});
-//var lightbox = new SimpleLightbox('.simplelightbox-gallery-4 a', {/* options */});
-//var lightbox = new SimpleLightbox('.simplelightbox-gallery-5 a', {/* options */});
-//var lightbox = new SimpleLightbox('.simplelightbox-gallery-6 a', {/* options */});
-//var lightbox = new SimpleLightbox('.simplelightbox-gallery-7 a', {/* options */});
-
-
-
