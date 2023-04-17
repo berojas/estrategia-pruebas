@@ -11,6 +11,8 @@ sections:
 - Bloque imagen más dos textos
 - Bloque reseña
 - Bloque subtitulo y texto de la página
+- Bloque titulo
+- Bloque video
 ---
 
 ## Diseño de bloques
@@ -74,7 +76,7 @@ En este bloque tienes una variedad de diseños las cuales puedes ajustar en el d
     <img class="img-responsive rounded" src="assets/images/bloque_animadas2.gif" alt="Bloque tarjetas animadas Hover" />
 </a>
 
-* Efecto “Zoom Over”: 
+* Efecto “Zoom Over”
 <a href="assets/images/bloque_animadas3.gif" data-magnify="gallery">
     <img class="img-responsive rounded" src="assets/images/bloque_animadas3.gif" alt="Bloque tarjetas animadas zoom" />
 </a>
@@ -119,10 +121,17 @@ Puedes agregar las reseñas que gustes, debes colocar imagenes con buena calidad
     <img class="img-responsive rounded" src="assets/images/bloque_resena.gif" alt="Bloque reseña" />
 </a>
 
-### **Bloque Subtitulo y texto de la página**
+### **•	Título de página**
 
-Solo debes llenar los campos requeridos y seleccionar uno de los iconos que hay disponibles
-<a href="assets/images/bloque_subtitulo.jpg" data-magnify="gallery">
-    <img class="img-responsive rounded" src="assets/images/bloque_subtitulo.jpg" alt="Bloque Subtitulo y texto de la página" />
+Solo debes llenar los campos requeridos.
+<a href="assets/images/bloque_titulo.jpg" data-magnify="gallery">
+    <img class="img-responsive rounded" src="assets/images/bloque_titulo.jpg" alt="Bloque titulo" />
+</a>
+
+### **•	Video**
+
+Puedes agregar este bloque en la cabecera de la página
+<a href="assets/images/video.jpg" data-magnify="gallery">
+    <img class="img-responsive rounded" src="assets/images/video.jpg" alt="Bloque video" />
 </a>
 
