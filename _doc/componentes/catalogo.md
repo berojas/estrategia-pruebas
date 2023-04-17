@@ -7,10 +7,10 @@ sections:
 - Bloque imagen
 - Bloque slider tarjetas
 - Bloque tarjetas animadas
-- Bloque Imagen Texto Botón
-- Bloque Imagen más dos textos
-- Bloque Bloque reseña
-- Bloque Subtitulo y texto de la página
+- Bloque imagen Texto Botón
+- Bloque imagen más dos textos
+- Bloque reseña
+- Bloque subtitulo y texto de la página
 ---
 
 ## Diseño de bloques
