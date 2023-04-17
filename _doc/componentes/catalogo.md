@@ -7,6 +7,7 @@ sections:
 - Bloque imagen
 - Bloque slider tarjetas
 - Bloque tarjetas animadas
+- Bloque Imagen + Texto + Botón
 
 ---
 
@@ -90,8 +91,12 @@ Tienes variedades de combinaciones ajustando el efecto visual, ubicación de la 
     <img class="img-responsive rounded" src="assets/images/imagen_texto_boton_2.jpg" alt="Bloque Imagen texto botón 2" />
 </a>
 
-
 * Ubicación de imagen “izquierda”, Imagen de fondo “Derecha”
 <a href="assets/images/imagen_texto_boton_4.jpg" data-magnify="gallery">
     <img class="img-responsive rounded" src="assets/images/imagen_texto_boton_4.jpg" alt="Bloque Imagen texto botón 3" />
 </a>
+
+### **Bloque Imagen + Texto + Botón**
+
+Es fácil, solo debes subir las imágenes correspondientes que te pide y agregar los textos.
+
