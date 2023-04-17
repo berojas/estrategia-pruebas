@@ -21,9 +21,10 @@ $(document).ready(function() {
 
     /* Smooth scrolling */
 	$('a.scrollto').on('click', function(e){
-        console.log(this.hash);
+       
         //store hash
         var target = this.hash;
+        console.log(target.replace(/[_\W]+/g, "-"));
         e.preventDefault();
 		$('body').scrollTo(target, 800, {offset: 0, 'axis':'y'});
 		// display anchor
