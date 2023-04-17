@@ -25,6 +25,7 @@ $(document).ready(function() {
         //store hash
         var target = (this.hash).replace(/[_\W]+/g, "-");
         console.log(target);
+        console.log(this.hash);
         e.preventDefault();
 		$('body').scrollTo(target, 800, {offset: 0, 'axis':'y'});
 		// display anchor
