@@ -21,12 +21,9 @@ $(document).ready(function() {
 
     /* Smooth scrolling */
 	$('a.scrollto').on('click', function(e){
-       
+        e.preventDefault();
         //store hash
         var target = (this.hash).replace(/([~!@$%^&*()_+=`{}\[\]\|\\:;'<>,.\/? ])+/g, '-')
-        console.log(target);
-        console.log(this.hash);
-        e.preventDefault();
 		$('body').scrollTo(target, 800, {offset: 0, 'axis':'y'});
 		// display anchor
 		document.location.hash = target;

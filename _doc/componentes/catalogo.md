@@ -28,6 +28,7 @@ Está diseñado para la cabecera de los basic page, puedes agregar la cantidad d
     <img class="img-responsive" src="assets/images/bloque_segundo_slide.jpg" alt="Segundo slider" />
 </a>
 
+{: #bloque-descripci-C3-B3n}
 ### **Bloque descripción**
 
 Puedes poner una imagen acompañado del texto
