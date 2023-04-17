@@ -10,6 +10,7 @@ sections:
 - Bloque Imagen Texto Botón
 - Bloque Imagen más dos textos
 - Bloque Bloque reseña
+- Bloque Subtitulo y texto de la página
 ---
 
 ## Diseño de bloques
@@ -115,5 +116,13 @@ Al crear un listado en la parte de “Efecto visual” DEBES dejar la opción de
 
 Puedes agregar las reseñas que gustes, debes colocar imagenes con buena calidad”.
 <a href="assets/images/bloque_resena.gif" data-magnify="gallery">
-    <img class="img-responsive rounded" src="assets/images/bloque_resena.gif" alt="Bloque Imagen texto botón 3" />
+    <img class="img-responsive rounded" src="assets/images/bloque_resena.gif" alt="Bloque reseña" />
 </a>
+
+### **Bloque Subtitulo y texto de la página**
+
+Solo debes llenar los campos requeridos y seleccionar uno de los iconos que hay disponibles
+<a href="assets/images/bloque_subtitulo.jpg" data-magnify="gallery">
+    <img class="img-responsive rounded" src="assets/images/bloque_subtitulo.jpg" alt="Bloque Subtitulo y texto de la página" />
+</a>
+
