@@ -23,7 +23,7 @@ $(document).ready(function() {
 	$('a.scrollto').on('click', function(e){
        
         //store hash
-        var target = (this.hash).replace("%", "-");
+        var target = (this.hash).replace(/([~!@$%^&*()_+=`{}\[\]\|\\:;'<>,.\/? ])+/g, '-')
         console.log(target);
         console.log(this.hash);
         e.preventDefault();
