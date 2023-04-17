@@ -46,8 +46,6 @@ $(document).ready(function () {
     /* Ref: http://ashleydw.github.io/lightbox/ */
 
     $("[data-magnify=gallery]").magnify({
-        modalWidth: 1000,
-        modalHeight: 500,
         initMaximized: true,
         footToolbar: ['zoomIn', 'zoomOut', 'actualSize', 'rotateRight'],
     });
