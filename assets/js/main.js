@@ -23,7 +23,8 @@ $(document).ready(function() {
 	$('a.scrollto').on('click', function(e){
         e.preventDefault();
         //store hash
-        var target = (this.hash).replace(/([~!@$%^&*()_+=`{}\[\]\|\\:;'<>,.\/? ])+/g, '-')
+        var target = (this.hash).replace(/([~!@$%^&*()_+=`{}\[\]\|\\:;'<>,.\/? ])+/g, '-');
+        console.log(encodeURI(this.hash));
 		$('body').scrollTo(target, 800, {offset: 0, 'axis':'y'});
 		// display anchor
 		document.location.hash = target;
