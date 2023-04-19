@@ -75,7 +75,7 @@ Cada diseño te pedirá llenar tiulo, texto principal y para el botón.”
 
 {: #diseño-9}
 ### **Diseño 9 (Imagen + texto)**
-{: #prueba 1}
+{: #prueba-1}
 <a href="assets/images/landing/diseno_9.jpg" data-magnify="gallery">
     <img class="img-responsive rounded" src="assets/images/landing/diseno_9.jpg" alt="Diseño 9 (Imagen + texto)" />
 </a>
