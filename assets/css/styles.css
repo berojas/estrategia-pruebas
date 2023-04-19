@@ -856,7 +856,8 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
 .doc-menu>li>a:hover,.doc-menu>li>a:focus {
     color: #000000;
     text-decoration: none;
-    background: none
+    background: none;
+    font-weight: 700;
 }
 
 .body-green .doc-menu>li>a:hover,.body-green .doc-menu>li>a:focus {
