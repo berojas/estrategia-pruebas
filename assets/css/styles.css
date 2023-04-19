@@ -943,9 +943,10 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
 }
 
 .doc-sub-menu>li>a:hover {
-    color: #40babd;
+    color: #000000;
     text-decoration: none;
-    background: none
+    background: none;
+    font-weight: 700
 }
 
 .body-green .doc-sub-menu>li>a:hover {
