@@ -10,6 +10,7 @@ heading: ¡Comenzar es fácil!
 navigation:
   - /componentes
   - /landing
+  - /colores
 ---
 
 Esta guía de usuario explica en detalle cada uno de estos pasos y brindainformación de interés para personas con un conocimiento mínimo del sistema de gestión de contenido. 
