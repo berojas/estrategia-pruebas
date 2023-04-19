@@ -243,7 +243,7 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
 .header {
     background: #ffec00;
     color: black;
-    border-top: 5px solid #40babd;
+    border-top: 5px solid black;
     padding: 30px 0
 }
 
@@ -1407,15 +1407,20 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
     color: #8A40A7
 }
 
-.img-responsive {
-    width: 100%;
+.cards-section .item-yellow .item-inner {
+    border-top: 3px solid #FFFF00
 }
 
-.magnify-image {
+.cards-section .item-yellow .item-inner:hover .title {
+    color: #FFFF00
+}
+
+.cards-section .item-yellow .icon {
+    color: #FFFF00
+}
+
+.img-responsive {
     width: 100%;
-    height: auto; 
-    left: 0;
-    top: 0;
 }
 
 @media (max-width: 767px) {
