@@ -12,7 +12,7 @@ sections:
 - Bloque reseña
 - Bloque subtitulo y texto de la página
 - Título de página
-- video
+- Video
 ---
 
 ## Diseño de bloques
