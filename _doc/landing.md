@@ -5,7 +5,7 @@ date: 2023-04-14
 icon:
   type: icon
   name: icon_puzzle
-color: yellow
+color: black
 sections:
   - /componentes/landing
 ---

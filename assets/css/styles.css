@@ -382,7 +382,7 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
 }
 
 .doc-header .doc-title {
-    color: #40babd;
+    color: #000000;
     margin-top: 0;
     font-size: 36px
 }
@@ -978,7 +978,8 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
 
 .doc-sub-menu>li.active>a {
     background: none;
-    color: #40babd
+    color: #000000;
+    font-weight: 700
 }
 
 .body-green .doc-sub-menu>li.active>a {
@@ -1407,16 +1408,16 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
     color: #8A40A7
 }
 
-.cards-section .item-yellow .item-inner {
-    border-top: 3px solid #FFFF00
+.cards-section .item-black .item-inner {
+    border-top: 3px solid #000000
 }
 
-.cards-section .item-yellow .item-inner:hover .title {
-    color: #FFFF00
+.cards-section .item-black .item-inner:hover .title {
+    color: #000000
 }
 
-.cards-section .item-yellow .icon {
-    color: #FFFF00
+.cards-section .item-black .icon {
+    color: #000000
 }
 
 .img-responsive {
