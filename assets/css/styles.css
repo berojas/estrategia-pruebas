@@ -885,8 +885,8 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
 
 .doc-menu>li.active>a {
     background: none;
-    border-left: 4px solid #40babd;
-    color: #40babd;
+    border-left: 4px solid #000000;
+    color: #000000;
     font-weight: 600
 }
 
