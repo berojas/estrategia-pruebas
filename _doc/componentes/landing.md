@@ -1,15 +1,15 @@
 ---
 title: Catálogo de componentes
 sections:
-- Diseño 1 
-- Diseño 2 imagen y texto
+- Diseño 1 Imagen y texto
+- Diseño 2 Imagen y texto
 - Diseño 3 Video
-- Diseño 4
-- Diseño 5
-- Diseño 6
-- Diseño 7
-- Diseño 8
-- Diseño 9
+- Diseño 4 Imagen y texto
+- Diseño 5 Imagen y texto
+- Diseño 6 Imagen y texto
+- Diseño 7 Dos imágenes
+- Diseño 8 Imagen y texto
+- Diseño 9 Imagen y texto
 ---
 
 ## Diseño de bloques landing
@@ -34,37 +34,37 @@ Cada diseño te pedirá llenar tiulo, texto principal y para el botón.”
     <img class="img-responsive rounded" src="assets/images/landing/diseno_3.jpg" alt="Diseño 3 (Video)" />
 </a>
 
-### **Diseño 4 (Imagen + texto)**
+### **Diseño 4 (Imagen y texto)**
 
 <a href="assets/images/landing/diseno_4.jpg" data-magnify="gallery">
     <img class="img-responsive rounded" src="assets/images/landing/diseno_4.jpg" alt="Diseño 4 (Imagen + texto)" />
 </a>
 
-### **Diseño 5 (Imagen + texto)**
+### **Diseño 5 (Imagen y texto)**
 
 <a href="assets/images/landing/diseno_5.jpg" data-magnify="gallery">
     <img class="img-responsive rounded" src="assets/images/landing/diseno_5.jpg" alt="Diseño 5 (Imagen + texto)" />
 </a>
 
-### **Diseño 6 (Imagen + texto)**
+### **Diseño 6 (Imagen y texto)**
 
 <a href="assets/images/landing/diseno_6.jpg" data-magnify="gallery">
     <img class="img-responsive rounded" src="assets/images/landing/diseno_6.jpg" alt="Diseño 6 (Imagen + texto)" />
 </a>
 
-### **Diseño 7 (2 imágenes)**
+### **Diseño 7 (Dos imágenes)**
 
 <a href="assets/images/landing/diseno_7.jpg" data-magnify="gallery">
     <img class="img-responsive rounded" src="assets/images/landing/diseno_7.jpg" alt="Diseño 7 (2 imágenes)" />
 </a>
 
-### **Diseño 8 (Imagen + texto)**
+### **Diseño 8 (Imagen y texto)**
 
 <a href="assets/images/landing/diseno_8.jpg" data-magnify="gallery">
     <img class="img-responsive rounded" src="assets/images/landing/diseno_8.jpg" alt="Diseño 8 (Imagen + texto)" />
 </a>
 
-### **Diseño 9 (Imagen + texto)**
+### **Diseño 9 (Imagen y texto)**
 
 <a href="assets/images/landing/diseno_9.jpg" data-magnify="gallery">
     <img class="img-responsive rounded" src="assets/images/landing/diseno_9.jpg" alt="Diseño 9 (Imagen + texto)" />
