@@ -2,7 +2,7 @@
 title: Catálogo de componentes
 sections:
 - Diseño 1 
-- Diseño 2 imagen - texto
+- Diseño 2 imagen y texto
 - Diseño 3 Video
 - Diseño 4
 - Diseño 5
@@ -16,13 +16,13 @@ sections:
 Al crear Tipo de contenido landing, tendremos la opcion de agregar diseños ya preestablecidos (en la actualidad hay 9 disponibles).
 Cada diseño te pedirá llenar tiulo, texto principal y para el botón.”
 
-### **Diseño 1 (Imagen + texto)**
+### **Diseño 1 (Imagen y texto)**
 
 <a href="assets/images/landing/diseno_1.jpg" data-magnify="gallery">
     <img class="img-responsive rounded" src="assets/images/landing/diseno_1.jpg" alt="Diseño 1 (Imagen + texto)" />
 </a>
 
-### **Diseño 2 (Imagen + texto)**
+### **Diseño 2 (Imagen y texto)**
 
 <a href="assets/images/landing/diseno_2.jpg" data-magnify="gallery">
     <img class="img-responsive rounded" src="assets/images/landing/diseno_2.jpg" alt="Diseño 2 (Imagen + texto)" />
