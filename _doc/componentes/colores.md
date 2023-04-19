@@ -6,6 +6,11 @@ sections:
 
 ### **Colores base**
 
-<div class="alert alert-warning">
-  Indicates a warning that might need attention.
+<div class="alert-uniandes-primary">
+  Primary color
 </div>
+
+<div class="alert-uniandes-2">Primary-color</div>
+<div class="alert-uniandes-secondary">Secondary-color.</div>
+<div class="alert-uniandes-text">Text-color.</div>
+<div class="alert-uniandes-subtext">Subtext-color.</div>

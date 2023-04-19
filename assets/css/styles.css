@@ -1426,6 +1426,31 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
     width: 100%;
 }
 
+.alert-uniandes-primary {
+    color: #000000;
+    background-color: #FFEC00;
+    border-color: #FFEC00
+}
+
+.alert-uniandes-secondary {
+    color: white;
+    background-color: #2D2D2C;
+    border-color: #2D2D2C
+}
+
+.alert-uniandes-text {
+    color: #FFEC00;
+    background-color: #262626;
+    border-color: #262626
+}
+
+.alert-uniandes-subtext {
+    color: white;
+    background-color: #747474;
+    border-color: #747474
+}
+
+
 @media (max-width: 767px) {
     .cards-section .item-inner {
         padding:30px 15px
