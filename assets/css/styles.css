@@ -1439,14 +1439,14 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
 }
 
 .alert-uniandes-text {
-    color: #FFEC00;
-    background-color: #262626;
+    color: #262626;
+    background-color: white;
     border-color: #262626
 }
 
 .alert-uniandes-subtext {
-    color: white;
-    background-color: #747474;
+    color: #747474;
+    background-color: white;
     border-color: #747474
 }
 
