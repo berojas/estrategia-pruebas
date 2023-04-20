@@ -43,5 +43,20 @@ sections:
     <div class="col-sm-12 col-md-6">
         <div class="alert alert-uniandes-text">secondary-color-menu</div>
     </div>
+</div>
+
+#### **primary-color**
+<div class="alert alert-uniandes-primary">#FFFF00</div>
+
+<div class="row">
+    <div class="col-sm-12 col-md-6">
+        <div class="panel panel-default">
+            <div class="panel-heading">Cabeza</div>
+            <div class="panel-body">Contenido</div>
+            <div class="panel-footer">Pie</div>
+        </div>
+    </div>
+    <div class="col-sm-12 col-md-6">
+    </div>
 
 </div>
