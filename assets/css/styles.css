@@ -1427,7 +1427,7 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
 }
 
 .panel-heading {
-    height: 28rem !important
+    height: 22rem !important
 }
 
 .panel-heading img {
