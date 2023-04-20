@@ -46,14 +46,18 @@ sections:
 </div>
 
 #### **primary-color**
-<div class="alert alert-uniandes-primary">#FFFF00</div>
+<div class="alert alert-uniandes-primary">Color por defecto #FFFF00</div>
 
 <div class="row">
     <div class="col-sm-12 col-md-6">
         <div class="panel panel-default">
-            <div class="panel-heading">Cabeza</div>
+            <div class="panel-heading">
+                 <a href="assets/images/colores/diseno_1.jpg" data-magnify="gallery" class="mask">
+                    <img class="img-responsive rounded" src="assets/images/colores/diseno_1.jpg" alt="Clip arts de cards" />
+                </a>
+            </div>
             <div class="panel-body">Contenido</div>
-            <div class="panel-footer">Pie</div>
+            
         </div>
     </div>
     <div class="col-sm-12 col-md-6">
