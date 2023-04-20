@@ -49,7 +49,7 @@ sections:
 <div class="alert alert-uniandes-primary">Color por defecto #FFFF00</div>
 
 <div class="row">
-    <div class="col-sm-12 col-md-6">
+    <div class="col-sm-12 col-md-4">
         <div class="panel panel-default">
             <div class="panel-heading">
                  <a href="assets/images/colores/diseno_1.jpg" data-magnify="gallery" class="mask">
@@ -59,7 +59,7 @@ sections:
             <div class="panel-body">*Clip arts de cards</div>
         </div>
     </div>
-    <div class="col-sm-12 col-md-6">
+    <div class="col-sm-12 col-md-4">
         <div class="panel panel-default">
             <div class="panel-heading">
                  <a href="assets/images/colores/diseno_2.jpg" data-magnify="gallery" class="mask">
@@ -69,7 +69,7 @@ sections:
             <div class="panel-body">*Hover en iconos de ayuda</div>
         </div>
     </div>
-    <div class="col-sm-12 col-md-6">
+    <div class="col-sm-12 col-md-4">
         <div class="panel panel-default">
             <div class="panel-heading">
                  <a href="assets/images/colores/diseno_3.jpg" data-magnify="gallery" class="mask">
@@ -79,7 +79,7 @@ sections:
             <div class="panel-body">*Lineas que separan secciones</div>
         </div>
     </div>
-    <div class="col-sm-12 col-md-6">
+    <div class="col-sm-12 col-md-4">
         <div class="panel panel-default">
             <div class="panel-heading">
                  <a href="assets/images/colores/boton.jpg" data-magnify="gallery" class="mask">
@@ -89,7 +89,7 @@ sections:
             <div class="panel-body">*Botones primarios</div>
         </div>
     </div>
-    <div class="col-sm-12 col-md-6">
+    <div class="col-sm-12 col-md-4">
         <div class="panel panel-default">
             <div class="panel-heading">
                  <a href="assets/images/colores/diseno_4.jpg" data-magnify="gallery" class="mask">
@@ -99,7 +99,7 @@ sections:
             <div class="panel-body">*Paginador activo</div>
         </div>
     </div>
-    <div class="col-sm-12 col-md-6">
+    <div class="col-sm-12 col-md-4">
         <div class="panel panel-default">
             <div class="panel-heading">
                  <a href="assets/images/colores/diseno_5.jpg" data-magnify="gallery" class="mask">
