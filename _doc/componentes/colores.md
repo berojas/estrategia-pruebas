@@ -128,9 +128,10 @@ sections:
             </div>
             <div class="panel-body">*Decoradores y active en el menú</div>
         </div>
-    </div>
-    
+    </div>    
+</div>
+
 ## **secondary-color**
-<div class="alert alert-uniandes-secondary">Color por defecto #2D2D2C</div>
+<div class="alert alert-uniandes-secondary">Color por defecto #2D2D2C
     
 </div>
