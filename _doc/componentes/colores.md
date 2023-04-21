@@ -45,7 +45,7 @@ sections:
     </div>
 </div>
 
-* **primary-color**
+## **primary-color**
 <div class="alert alert-uniandes-primary">Color por defecto #FFFF00</div>
 
 <div class="row">
@@ -109,5 +109,28 @@ sections:
             <div class="panel-body">*Iconos con fondo oscuro</div>
         </div>
     </div>
+    <div class="col-sm-12 col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                 <a href="assets/images/colores/diseno_6.jpg" data-magnify="gallery" class="mask">
+                    <img class="img-responsive rounded" src="assets/images/colores/diseno_6.jpg" alt="Lineas decorativas en encabezados del home" />
+                </a>
+            </div>
+            <div class="panel-body">*Lineas decorativas en encabezados del home</div>
+        </div>
+    </div>
+    <div class="col-sm-12 col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                 <a href="assets/images/colores/diseno_7.jpg" data-magnify="gallery" class="mask">
+                    <img class="img-responsive rounded" src="assets/images/colores/diseno_7.jpg" alt="Decoradores y active en el menú" />
+                </a>
+            </div>
+            <div class="panel-body">*Decoradores y active en el menú</div>
+        </div>
+    </div>
+    
+## **secondary-color**
+<div class="alert alert-uniandes-secondary">Color por defecto #2D2D2C</div>
     
 </div>
