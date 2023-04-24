@@ -159,7 +159,7 @@ sections:
         <div class="panel panel-default">
             <div class="panel-heading">
                  <a href="assets/images/colores/boton_2.jpg" data-magnify="gallery" class="mask">
-                    <img class="img-responsive rounded" src="assets/images/colores/boton_2.jpg" alt="Botones secundarios" />
+                    <img class="img-responsive rounded" src="assets/images/colores/boton2.jpg" alt="Botones secundarios" />
                 </a>
             </div>
             <div class="panel-body">*Botones secundarios</div>
