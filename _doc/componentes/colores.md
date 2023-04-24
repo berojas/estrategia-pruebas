@@ -325,19 +325,9 @@ sections:
             <div class="panel-body">*Color de texto en fondo oscuro</div>
         </div>
     </div>
-    <div class="col-sm-12 col-md-4">
-        <div class="panel panel-default">
-            <div class="panel-heading">
-                 <a href="assets/images/colores/diseno_7.jpg" data-magnify="gallery" class="mask">
-                    <img class="img-responsive rounded" src="assets/images/colores/diseno_7.jpg" alt="Color de texto en menú" />
-                </a>
-            </div>
-            <div class="panel-body">*Color de texto en menú</div>
-        </div>
-    </div>
 </div>
 
-### **color-text-in-dark**
+### **color-primary-menu**
 <div class="alert alert-uniandes-secondary">Color por defecto #000000</div>
 
 <div class="row">
@@ -363,3 +353,28 @@ sections:
     </div>
 </div>
 
+### **color-primary-menu**
+<div class="alert alert-uniandes-secondary">Color por defecto #F3F3F2</div>
+
+<div class="row">
+    <div class="col-sm-12 col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                 <a href="assets/images/colores/diseno_7.jpg" data-magnify="gallery" class="mask">
+                    <img class="img-responsive rounded" src="assets/images/colores/diseno_7.jpg" alt="Color de texto en menú e iconos de navegación" />
+                </a>
+            </div>
+            <div class="panel-body">*Color de texto en menú e iconos de navegación</div>
+        </div>
+    </div>
+    <div class="col-sm-12 col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                 <a href="assets/images/colores/boton_menu.jpg" data-magnify="gallery" class="mask">
+                    <img class="img-responsive rounded" src="assets/images/colores/boton_menu.jpg" alt="Color de texto del boton del menú" />
+                </a>
+            </div>
+            <div class="panel-body">*Color de texto del boton del menú</div>
+        </div>
+    </div>
+</div>
