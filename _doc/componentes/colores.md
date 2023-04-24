@@ -242,3 +242,40 @@ sections:
         </div>
     </div>
 </div>
+
+### **subtext-color**
+<div class="alert alert-uniandes-subtext">Color por defecto #747474</div>
+
+<div class="row">
+    <div class="col-sm-12 col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                 <a href="assets/images/colores/subtext_1.jpg" data-magnify="gallery" class="mask">
+                    <img class="img-responsive rounded" src="assets/images/colores/subtext_1.jpg" alt="Subtextos informativos" />
+                </a>
+            </div>
+            <div class="panel-body">*Subtextos informativos</div>
+        </div>
+    </div>
+    <div class="col-sm-12 col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                 <a href="assets/images/colores/subtext_2.jpg" data-magnify="gallery" class="mask">
+                    <img class="img-responsive rounded" src="assets/images/colores/subtext_2.jpg" alt="Subtextos en iconos" />
+                </a>
+            </div>
+            <div class="panel-body">*Subtextos en iconos</div>
+        </div>
+    </div>
+    <div class="col-sm-12 col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                 <a href="assets/images/colores/subtext_3.jpg" data-magnify="gallery" class="mask">
+                    <img class="img-responsive rounded" src="assets/images/colores/subtext_3.jpg" alt="Titulo de items del footer" />
+                </a>
+            </div>
+            <div class="panel-body">*Titulo de items del footer</div>
+        </div>
+    </div>
+</div>
+
