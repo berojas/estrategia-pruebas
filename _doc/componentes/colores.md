@@ -24,7 +24,7 @@ sections:
         <div class="alert alert-uniandes-secondary-yellow">hover-bg-color</div>
     </div>
     <div class="col-sm-6 col-md-4">
-        <div class="alert alert-uniandes-secondary">hover-text-color</div>
+        <div class="alert alert-uniandes-text">hover-text-color</div>
     </div>
     <div class="col-sm-6 col-md-4">
         <div class="alert alert-uniandes-secondary">color-text-in-dark</div>
@@ -275,6 +275,90 @@ sections:
                 </a>
             </div>
             <div class="panel-body">*Titulo de items del footer</div>
+        </div>
+    </div>
+</div>
+
+### **hover-text-color**
+<div class="alert alert-uniandes-subtext">Color por defecto #2D2D2C</div>
+
+<div class="row">
+    <div class="col-sm-12 col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                 <a href="assets/images/colores/boton_hover.jpg" data-magnify="gallery" class="mask">
+                    <img class="img-responsive rounded" src="assets/images/colores/boton_hover.jpg" alt="Color de texto y borde de botones al hacer hover" />
+                </a>
+            </div>
+            <div class="panel-body">*Color de texto y borde de botones al hacer hover</div>
+        </div>
+    </div>
+</div>
+
+### **hover-bg-color**
+<div class="alert alert-uniandes-text">Color por defecto #FFF</div>
+
+<div class="row">
+    <div class="col-sm-12 col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                 <a href="assets/images/colores/boton_hover.jpg" data-magnify="gallery" class="mask">
+                    <img class="img-responsive rounded" src="assets/images/colores/boton_hover.jpg" alt="Color de texto y borde de botones al hacer hover" />
+                </a>
+            </div>
+            <div class="panel-body">*Color de texto y borde de botones al hacer hover</div>
+        </div>
+    </div>
+</div>
+
+### **color-text-in-dark**
+<div class="alert alert-uniandes-secondary">Color por defecto #FFF</div>
+
+<div class="row">
+    <div class="col-sm-12 col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                 <a href="assets/images/colores/diseno_6.jpg" data-magnify="gallery" class="mask">
+                    <img class="img-responsive rounded" src="assets/images/colores/diseno_6.jpg" alt="Color de texto en fondo oscuro" />
+                </a>
+            </div>
+            <div class="panel-body">*Color de texto en fondo oscuro</div>
+        </div>
+    </div>
+    <div class="col-sm-12 col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                 <a href="assets/images/colores/diseno_7.jpg" data-magnify="gallery" class="mask">
+                    <img class="img-responsive rounded" src="assets/images/colores/diseno_7.jpg" alt="Color de texto en menú" />
+                </a>
+            </div>
+            <div class="panel-body">*Color de texto en menú</div>
+        </div>
+    </div>
+</div>
+
+### **color-text-in-dark**
+<div class="alert alert-uniandes-secondary">Color por defecto #000000</div>
+
+<div class="row">
+    <div class="col-sm-12 col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                 <a href="assets/images/colores/boton_menu.jpg" data-magnify="gallery" class="mask">
+                    <img class="img-responsive rounded" src="assets/images/colores/boton_menu.jpg" alt="Fondo color de boton del menú" />
+                </a>
+            </div>
+            <div class="panel-body">*Fondo color de boton del menú</div>
+        </div>
+    </div>
+    <div class="col-sm-12 col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                 <a href="assets/images/colores/diseno_7.jpg" data-magnify="gallery" class="mask">
+                    <img class="img-responsive rounded" src="assets/images/colores/diseno_7.jpg" alt="Fondo del menú" />
+                </a>
+            </div>
+            <div class="panel-body">*Fondo del menú</div>
         </div>
     </div>
 </div>
