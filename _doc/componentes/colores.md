@@ -216,3 +216,29 @@ sections:
         </div>
     </div>    
 </div>
+
+### **text-color**
+<div class="alert alert-uniandes-text">Color por defecto #262626</div>
+
+<div class="row">
+    <div class="col-sm-12 col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                 <a href="assets/images/colores/text_parrafo.jpg" data-magnify="gallery" class="mask">
+                    <img class="img-responsive rounded" src="assets/images/colores/text_parrafo.jpg" alt="Parrafos" />
+                </a>
+            </div>
+            <div class="panel-body">*Parrafos</div>
+        </div>
+    </div>
+    <div class="col-sm-12 col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                 <a href="assets/images/colores/text_cards.jpg" data-magnify="gallery" class="mask">
+                    <img class="img-responsive rounded" src="assets/images/colores/text_cards.jpg" alt="Textos de cards" />
+                </a>
+            </div>
+            <div class="panel-body">*Textos de cards</div>
+        </div>
+    </div>
+</div>
