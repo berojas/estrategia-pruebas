@@ -5,7 +5,7 @@ sections:
 - Colores menú
 ---
 
-### **Colores base**
+## **Colores base**
 
 <div class="row">
     <div class="col-sm-6 col-md-4">
@@ -31,7 +31,7 @@ sections:
     </div>
 </div>
 
-### **Colores menú**
+## **Colores menú**
 
 <div class="row">
     <div class="col-sm-6 col-md-4">
@@ -45,7 +45,7 @@ sections:
     </div>
 </div>
 
-## **primary-color**
+### **primary-color**
 <div class="alert alert-uniandes-primary">Color por defecto #FFFF00</div>
 
 <div class="row">
@@ -131,7 +131,88 @@ sections:
     </div>    
 </div>
 
-## **secondary-color**
-<div class="alert alert-uniandes-secondary">Color por defecto #2D2D2C
-    
+### **secondary-color**
+<div class="alert alert-uniandes-secondary">Color por defecto #2D2D2C</div>
+
+<div class="row">
+    <div class="col-sm-12 col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                 <a href="assets/images/colores/secondary_card.jpg" data-magnify="gallery" class="mask">
+                    <img class="img-responsive rounded" src="assets/images/colores/secondary_card.jpg" alt="Titulo de cards" />
+                </a>
+            </div>
+            <div class="panel-body">*Titulo de cards</div>
+        </div>
+    </div>
+    <div class="col-sm-12 col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                 <a href="assets/images/colores/secondary_titulos.jpg" data-magnify="gallery" class="mask">
+                    <img class="img-responsive rounded" src="assets/images/colores/secondary_titulos.jpg" alt="Titulo principal" />
+                </a>
+            </div>
+            <div class="panel-body">*Titulo principal</div>
+        </div>
+    </div>
+    <div class="col-sm-12 col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                 <a href="assets/images/colores/boton_2.jpg" data-magnify="gallery" class="mask">
+                    <img class="img-responsive rounded" src="assets/images/colores/boton_2.jpg" alt="Botones secundarios" />
+                </a>
+            </div>
+            <div class="panel-body">*Botones secundarios</div>
+        </div>
+    </div>
+    <div class="col-sm-12 col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                 <a href="assets/images/colores/secondary_slider.jpg" data-magnify="gallery" class="mask">
+                    <img class="img-responsive rounded" src="assets/images/colores/secondary_slider.jpg" alt="Botones de slider fondo oscuro" />
+                </a>
+            </div>
+            <div class="panel-body">*Botones de slider fondo oscuro</div>
+        </div>
+    </div>
+    <div class="col-sm-12 col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                 <a href="assets/images/colores/secondary_slider2.jpg" data-magnify="gallery" class="mask">
+                    <img class="img-responsive rounded" src="assets/images/colores/secondary_slider2.jpg" alt="Colores de icono fondo claro" />
+                </a>
+            </div>
+            <div class="panel-body">*Colores de icono fondo claro</div>
+        </div>
+    </div>
+    <div class="col-sm-12 col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                 <a href="assets/images/colores/secondary_titulo.jpg" data-magnify="gallery" class="mask">
+                    <img class="img-responsive rounded" src="assets/images/colores/secondary_titulo.jpg" alt="Título de secciones" />
+                </a>
+            </div>
+            <div class="panel-body">*Título de secciones</div>
+        </div>
+    </div>
+    <div class="col-sm-12 col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                 <a href="assets/images/colores/secondary_acordeon.jpg" data-magnify="gallery" class="mask">
+                    <img class="img-responsive rounded" src="assets/images/colores/secondary_acordeon.jpg" alt="Botón de acordeones" />
+                </a>
+            </div>
+            <div class="panel-body">*Botón de acordeones</div>
+        </div>
+    </div>
+    <div class="col-sm-12 col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                 <a href="assets/images/colores/secondary_tooltip.jpg" data-magnify="gallery" class="mask">
+                    <img class="img-responsive rounded" src="assets/images/colores/secondary_tooltip.jpg" alt="Color de fondos en tooltips" />
+                </a>
+            </div>
+            <div class="panel-body">*Color de fondos en tooltips</div>
+        </div>
+    </div>    
 </div>
