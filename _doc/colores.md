@@ -8,4 +8,5 @@ icon:
 color: black
 sections:
   - /componentes/colores
+  - /componentes/lista_colores
 ---
