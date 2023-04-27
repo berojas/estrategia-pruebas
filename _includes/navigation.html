@@ -7,7 +7,7 @@
     {% assign post = site.pages | where: "url", url | first %}
     {% endunless %}
     {% unless post %}{% continue %}{% endunless %}
-    <div class="item item-{{ post.color }} col-md-4 col-sm-6 col-xs-6">
+    <div class="item item-{{ post.color }} col-md-4 col-sm-6 col-xs-12">
         <div class="item-inner">
             <div class="icon-holder">
                 {% include icon.html icon=post.icon %}

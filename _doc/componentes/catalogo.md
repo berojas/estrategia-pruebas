@@ -44,7 +44,7 @@ Puedes poner una imagen acompañado del texto
 
 Puedes añadir las tarjetas en el botón “añadir tarjetas cifras”, **solo puedes añadir tarjetas 2 por columna**.
 <a href="assets/images/basic/bloque_cifras.jpg" data-magnify="gallery">
-    <img class="img-responsive rounded" src="assets/images/basic/bloque_cifras.JPG" alt="Bloque descripción" />
+    <img class="img-responsive rounded" src="assets/images/basic/bloque_cifras.jpg" alt="Franja Cifras" />
 </a>
 
 ### **Bloque imagen**
