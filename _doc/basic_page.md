@@ -7,5 +7,5 @@ icon:
   name: fa-home
 color: black
 sections:
-  - /componentes/basic_page.md
+  - /componentes/basic_page
 ---
