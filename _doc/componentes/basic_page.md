@@ -23,11 +23,11 @@ Ya estando allí debes darle al **Botón Añadír** contenido y elegir la primer
 
 </div>
 <div class="col-md-6 col-sm-6 col-xs-12">
-    - 1. Debes ingresar el título el cual se va a distinguir la página
-    - 2. Puedes seleccionar si:
-        -- Draft: guardar como borrador
-        -- In review: dejar en revisión
-        -- Published: Publicar
+    * 1. Debes ingresar el título el cual se va a distinguir la página
+    * 2. Puedes seleccionar si:
+        ** Draft: guardar como borrador
+        ** In review: dejar en revisión
+        ** Published: Publicar
  </div>
 </div>
 
