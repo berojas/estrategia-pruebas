@@ -71,12 +71,6 @@ code {
     margin-right: 5px
 }
 
-.btn-primary,a.btn-primary {
-    background: #40babd;
-    border: 1px solid #40babd;
-    color: #fff !important
-}
-
 .btn-primary:hover,.btn-primary:focus,.btn-primary:active,.btn-primary.active,.btn-primary.hover,a.btn-primary:hover,a.btn-primary:focus,a.btn-primary:active,a.btn-primary.active,a.btn-primary.hover {
     background: #3aa7aa;
     color: #fff !important;
