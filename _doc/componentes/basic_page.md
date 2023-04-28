@@ -22,13 +22,15 @@ Ya estando allí debes darle al **botón Añadir** contenido y elegir la primera
 </a>
 </div>
 <div class="col-md-6 col-sm-6 col-xs-12">
-     1. Debes ingresar el título el cual se va a distinguir la página
-     2. Puedes seleccionar si:
-        * Draft: guardar como borrador
-        * In review: dejar en revisión
-        * Published: Publicar
-    3. Para temas de SEO debes ingresar al siguiente enlace donde verás toda la información al respecto
-    [*&nbsp;*{: .fa .fa-info} Ver SEO](){: .btn .btn-primary}
+    
+1. Debes ingresar el título el cual se va a distinguir la página    
+2. Puedes seleccionar si:
+    * Draft: guardar como borrador
+    * In review: dejar en revisión
+    * Published: Publicar
+3. Para temas de SEO debes ingresar al siguiente enlace donde verás toda la información al respecto
+[*&nbsp;*{: .fa .fa-info} Ver SEO](){: .btn .btn-primary}
+    
  </div>
 </div>
 
@@ -39,4 +41,12 @@ en este caso irás a la fila en la tabla donde se encuentra la pagina recienteme
 
 <a href="assets/images/pagina/img_4.jpg" data-magnify="gallery" class="mask">
     <img class="img-responsive rounded" src="assets/images/pagina/img_4.jpg" alt="Listado de contenido" />
+</a>
+
+## Paso 3
+
+En este paso podrás editar el [paso #1](#paso-1), eliminar la página, en este caso le asignaremos bloques ya previamente creados (Si aún no has creado un bloque personalizado [Ver componentes - basic pages](./componentes.html))
+
+<a href="assets/images/pagina/img_5.jpg" data-magnify="gallery" class="mask">
+    <img class="img-responsive rounded" src="assets/images/pagina/img_5.jpg" alt="Pestaña crear, eliminar, diseño, revisiones, entre otros" />
 </a>
