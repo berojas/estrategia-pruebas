@@ -68,21 +68,28 @@ Al estár en la pestaña de diseño encontrarás el siguiente bloque, debes darl
     <img class="img-responsive rounded" src="assets/images/pagina/img_6.jpg" alt="Vista para añadir bloques" />
 </a>
 
-## Paso 5
-
-Una vez realizado el paso anterior, se te abrirá un menú lateral en el lado derecho, debes filtrar por el bloque personalizado que previamente has creado y darle click 
+<div class="row">
+<div class="col-md-6 col-sm-6 col-xs-12">
+    
+<h2 id="paso-5">Paso 5</h2>
+<p>Una vez realizado el paso anterior, se te abrirá un menú lateral en el lado derecho, debes filtrar por el bloque personalizado que previamente has creado y darle click</p>
 
 <a href="assets/images/pagina/img_7.jpg" data-magnify="gallery" class="mask">
     <img class="img-responsive rounded" src="assets/images/pagina/img_7.jpg" alt="Vista para añadir bloques" />
 </a>
-
-## Paso 6
-
-Te saldrán la opcion de mostrar el título del bloque, al realizar los ajustes debes darle al botón **Añadir bloque**
+</div>
+    
+<div class="col-md-6 col-sm-6 col-xs-12">
+    
+<h2 id="paso-6">Paso 5</h2>
+<p>Te saldrán la opcion de mostrar el título del bloque, al realizar los ajustes debes darle al botón **Añadir bloque**</p>
 
 <a href="assets/images/pagina/img_8.jpg" data-magnify="gallery" class="mask">
     <img class="img-responsive rounded" src="assets/images/pagina/img_8.jpg" alt="Vista para añadir bloques" />
 </a>
+
+ </div>
+</div>
 
 ## Paso final 
 
