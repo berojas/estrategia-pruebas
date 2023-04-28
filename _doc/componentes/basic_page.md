@@ -13,6 +13,9 @@ Una vez iniciada su sesión, si un administrador te concedió los permisos adecu
 
 Ya estando allí debes darle al **botón Añadir** contenido y elegir la primera opción **Basic page**: 
 
+Para temas de SEO debes ingresar al siguiente enlace donde verás toda la información al respecto
+[*&nbsp;*{: .fa .fa-info} Ver SEO](){: .btn .btn-primary}
+
 ### Paso 1
 
 <div class="row">
@@ -31,9 +34,7 @@ Ya estando allí debes darle al **botón Añadir** contenido y elegir la primera
       <li>In review: dejar en revisión</li>
       <li>Published: Publicar</li>
     </ul>
-<p>3. Para temas de SEO debes ingresar al siguiente enlace donde verás toda la información al respecto</p>p>
-<a class="btn btn-primary" href="#paso-1">Ver SEO</a>
-    
+<p>3. para finalizar tienes que darle al botón **Guardar** </p>
  </div>
 </div>
 
