@@ -54,7 +54,7 @@ en este caso irás a la fila en la tabla donde se encuentra la pagina recienteme
 
 ## Paso 3
 
-En este paso podrás editar el [paso #1](#paso-1){.scrollto}, eliminar la página y en este caso iremos a la pestaña **Diseño** donde le asignaremos bloques ya previamente creados (Si aún no has creado un bloque personalizado [Ver componentes - basic pages](./componentes.html))
+En este paso podrás editar el [paso #1](#paso-1){: .scrollto}, eliminar la página y en este caso iremos a la pestaña **Diseño** donde le asignaremos bloques ya previamente creados (Si aún no has creado un bloque personalizado [Ver componentes - basic pages](./componentes.html))
 
 <a href="assets/images/pagina/img_5.jpg" data-magnify="gallery" class="mask">
     <img class="img-responsive rounded" src="assets/images/pagina/img_5.jpg" alt="Pestaña crear, eliminar, diseño, revisiones, entre otros" />
@@ -93,7 +93,7 @@ Al estár en la pestaña de diseño encontrarás el siguiente bloque, debes darl
 
 ## Paso final 
 
-Puedes repetir el [paso #4](#paso-4){.scrollto} dependiendo la cantidad de bloques que requieres para la página. Al finalizar debes subir hasta la parte superior de la pagina y darle al botón **Guardar diseño**, te redigirá a la previsualización
+Puedes repetir el [paso #4](#paso-4){: .scrollto} dependiendo la cantidad de bloques que requieres para la página. Al finalizar debes subir hasta la parte superior de la pagina y darle al botón **Guardar diseño**, te redigirá a la previsualización
 
 <a href="assets/images/pagina/img_9.jpg" data-magnify="gallery" class="mask">
     <img class="img-responsive rounded" src="assets/images/pagina/img_9.jpg" alt="Vista para añadir bloques" />
