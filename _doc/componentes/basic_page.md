@@ -27,9 +27,9 @@ Ya estando allí debes darle al **Botón Añadír** contenido y elegir la primer
 
     * 1. Debes ingresar el título el cual se va a distinguir la página
     * 2. Puedes seleccionar si:
-        ** Draft: guardar como borrador
-        ** In review: dejar en revisión
-        ** Published: Publicar
+        * Draft: guardar como borrador
+        * In review: dejar en revisión
+        * Published: Publicar
         
  </div>
 </div>
