@@ -81,8 +81,8 @@ Al estár en la pestaña de diseño encontrarás el siguiente bloque, debes darl
     
 <div class="col-md-6 col-sm-6 col-xs-12">
     
-<h2 id="paso-6">Paso 5</h2>
-<p>Te saldrán la opcion de mostrar el título del bloque, al realizar los ajustes debes darle al botón **Añadir bloque**</p>
+<h2 id="paso-6">Paso 6</h2>
+<p>Te saldrán la opcion de mostrar el título del bloque, al realizar los ajustes debes darle al botón <b>Añadir bloque</b></p>
 
 <a href="assets/images/pagina/img_8.jpg" data-magnify="gallery" class="mask">
     <img class="img-responsive rounded" src="assets/images/pagina/img_8.jpg" alt="Vista para añadir bloques" />
