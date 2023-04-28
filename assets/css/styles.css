@@ -30,20 +30,11 @@ p {
 }
 
 a {
-    color: #3aa7aa;
+    text-decoration: underline;
     -webkit-transition: all 0.4s ease-in-out;
     -moz-transition: all 0.4s ease-in-out;
     -ms-transition: all 0.4s ease-in-out;
     -o-transition: all 0.4s ease-in-out
-}
-
-a:hover {
-    text-decoration: underline;
-    color: #339597
-}
-
-a:focus {
-    text-decoration: none
 }
 
 code {

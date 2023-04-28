@@ -21,15 +21,18 @@ Ya estando allí debes darle al **botón Añadir** contenido y elegir la primera
     <img class="img-responsive rounded" src="assets/images/pagina/img_3.jpg" alt="Botón añadír " />
 </a>
 </div>
+    
 <div class="col-md-6 col-sm-6 col-xs-12">
     
-1. Debes ingresar el título el cual se va a distinguir la página    
-2. Puedes seleccionar si:
-    * Draft: guardar como borrador
-    * In review: dejar en revisión
-    * Published: Publicar
-3. Para temas de SEO debes ingresar al siguiente enlace donde verás toda la información al respecto
-[*&nbsp;*{: .fa .fa-info} Ver SEO](){: .btn .btn-primary}
+<p>1. Debes ingresar el título el cual se va a distinguir la página.</p>
+<p>2. Puedes seleccionar si:</p>
+    <ul>
+      <li>Draft: guardar como borrador</li>
+      <li>In review: dejar en revisión</li>
+      <li>Published: Publicar</li>
+    </ul>
+<p>3. Para temas de SEO debes ingresar al siguiente enlace donde verás toda la información al respecto</p>p>
+<a class="btn btn-primary" href="#paso-1">Ver SEO</a>
     
  </div>
 </div>
@@ -45,7 +48,7 @@ en este caso irás a la fila en la tabla donde se encuentra la pagina recienteme
 
 ## Paso 3
 
-En este paso podrás editar el [paso #1](#paso-1), eliminar la página, en este caso le asignaremos bloques ya previamente creados (Si aún no has creado un bloque personalizado [Ver componentes - basic pages](./componentes.html))
+En este paso podrás editar el [paso #1](#paso-1), eliminar la página y en este caso iremos a la pestaña **Diseño** donde le asignaremos bloques ya previamente creados (Si aún no has creado un bloque personalizado [Ver componentes - basic pages](./componentes.html))
 
 <a href="assets/images/pagina/img_5.jpg" data-magnify="gallery" class="mask">
     <img class="img-responsive rounded" src="assets/images/pagina/img_5.jpg" alt="Pestaña crear, eliminar, diseño, revisiones, entre otros" />
