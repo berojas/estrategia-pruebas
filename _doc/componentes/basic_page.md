@@ -13,8 +13,6 @@ Una vez iniciada su sesión, si un administrador te concedió los permisos adecu
 
 Ya estando allí debes darle al **Botón Añadír** contenido y elegir la primera opción **Basic page**: 
 
-## Paso 1
-
 <div class="row">
 <div class="col-md-6 col-sm-6 col-xs-12">
 
