@@ -11,7 +11,7 @@ Una vez iniciada su sesión, si un administrador te concedió los permisos adecu
     <img class="img-responsive rounded" src="assets/images/pagina/img_1.jpg" alt="Menú" />
 </a>
 
-Ya estando allí debes darle al **Botón Añadír** contenido y elegir la primera opción **Basic page**: 
+Ya estando allí debes darle al **botón Añadir** contenido y elegir la primera opción **Basic page**: 
 
 
 <div class="row">
@@ -24,6 +24,7 @@ Ya estando allí debes darle al **Botón Añadír** contenido y elegir la primer
 </div>
 <div class="col-md-6 col-sm-6 col-xs-12">
 
+###### Detalles
 
     - 1. Debes ingresar el título el cual se va a distinguir la página
     - 2. Puedes seleccionar si:
