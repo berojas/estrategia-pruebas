@@ -1,8 +1,13 @@
 ---
 title: Craer una página desde cero
 sections:
-
-- 
+- Paso 1
+- Paso 2
+- Paso 3
+- Paso 4
+- Paso 5
+- Paso 6
+- Paso final
 ---
 
 Una vez iniciada su sesión, si un administrador te concedió los permisos adecuados, deberás ir al menú superior en la pestaña **Contenido**
@@ -34,7 +39,7 @@ Para temas de SEO debes ingresar al siguiente enlace donde verás toda la inform
       <li>In review: dejar en revisión</li>
       <li>Published: Publicar</li>
     </ul>
-<p>3. para finalizar tienes que darle al botón **Guardar** </p>
+<p>3. para finalizar tienes que darle al botón <b>Guardar</b></p>
  </div>
 </div>
 
@@ -53,4 +58,36 @@ En este paso podrás editar el [paso #1](#paso-1), eliminar la página y en este
 
 <a href="assets/images/pagina/img_5.jpg" data-magnify="gallery" class="mask">
     <img class="img-responsive rounded" src="assets/images/pagina/img_5.jpg" alt="Pestaña crear, eliminar, diseño, revisiones, entre otros" />
+</a>
+
+## Paso 4 
+
+Al estár en la pestaña de diseño encontrarás el siguiente bloque, debes darle click en el recuadro marcado en la imagen
+
+<a href="assets/images/pagina/img_6.jpg" data-magnify="gallery" class="mask">
+    <img class="img-responsive rounded" src="assets/images/pagina/img_6.jpg" alt="Vista para añadir bloques" />
+</a>
+
+## Paso 5
+
+Una vez realizado el paso anterior, se te abrirá un menú lateral en el lado derecho, debes filtrar por el bloque personalizado que previamente has creado y darle click 
+
+<a href="assets/images/pagina/img_7.jpg" data-magnify="gallery" class="mask">
+    <img class="img-responsive rounded" src="assets/images/pagina/img_7.jpg" alt="Vista para añadir bloques" />
+</a>
+
+## Paso 6
+
+Te saldrán la opcion de mostrar el título del bloque, al realizar los ajustes debes darle al botón **Añadir bloque**
+
+<a href="assets/images/pagina/img_8.jpg" data-magnify="gallery" class="mask">
+    <img class="img-responsive rounded" src="assets/images/pagina/img_8.jpg" alt="Vista para añadir bloques" />
+</a>
+
+## Paso final 
+
+Puedes repetir el [paso #4](#paso-4) dependiendo la cantidad de bloques que requieres para la página. Al finalizar debes subir hasta la parte superior de la pagina y darle al botón **Guardar diseño**, te redigirá a la previsualización
+
+<a href="assets/images/pagina/img_9.jpg" data-magnify="gallery" class="mask">
+    <img class="img-responsive rounded" src="assets/images/pagina/img_9.jpg" alt="Vista para añadir bloques" />
 </a>
