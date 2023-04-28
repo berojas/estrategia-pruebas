@@ -30,11 +30,18 @@ p {
 }
 
 a {
-    text-decoration: underline;
     -webkit-transition: all 0.4s ease-in-out;
     -moz-transition: all 0.4s ease-in-out;
     -ms-transition: all 0.4s ease-in-out;
     -o-transition: all 0.4s ease-in-out
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:focus {
+    text-decoration: none
 }
 
 code {
