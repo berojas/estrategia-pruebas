@@ -1,5 +1,5 @@
 ---
-title: Craer una página desde cero
+title: Craer una basic page desde cero
 sections:
 - Paso 1
 - Paso 2
@@ -62,7 +62,7 @@ En este paso podrás editar el [paso #1](#paso-1){: .scrollto}, eliminar la pág
 
 ## Paso 4 
 
-Al estár en la pestaña de diseño encontrarás el siguiente bloque, debes darle click en el recuadro marcado en la imagen
+Al estár en la pestaña de diseño encontrarás el siguiente bloque, debes darle click en el recuadro marcado en la imagen **Add block**
 
 <a href="assets/images/pagina/img_6.jpg" data-magnify="gallery" class="mask">
     <img class="img-responsive rounded" src="assets/images/pagina/img_6.jpg" alt="Vista para añadir bloques" />
