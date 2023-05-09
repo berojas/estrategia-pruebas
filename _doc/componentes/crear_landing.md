@@ -1,7 +1,8 @@
 ---
 title: Crear landing
 sections:
-
+- Paso 1
+- Paso 2
 ---
 
 ## Diseño de bloques landing
