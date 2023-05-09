@@ -21,13 +21,13 @@ Para temas de SEO debes ingresar al siguiente enlace donde verás toda la inform
 ### Paso 1
 
 <div class="row">
-<div class="col-md-6 col-sm-6 col-xs-12">
+<div class="col-md-7 col-sm-6 col-xs-12">
 <a href="assets/images/landing/crear_1.jpg" data-magnify="gallery" class="mask">
     <img class="img-responsive rounded" src="assets/images/landing/crear_1.jpg" alt="Imágen añadir landing 1" />
 </a>
 </div>
     
-<div class="col-md-6 col-sm-6 col-xs-12">
+<div class="col-md-5 col-sm-6 col-xs-12">
     
 <p>1. Debes ingresar el título el cual se va a distinguir la página.</p>
 <p>2. opciones</p>
@@ -44,13 +44,13 @@ Para temas de SEO debes ingresar al siguiente enlace donde verás toda la inform
 ### Paso 2
 
 <div class="row">
-<div class="col-md-6 col-sm-6 col-xs-12">
+<div class="col-md-7 col-sm-6 col-xs-12">
 <a href="assets/images/landing/crear_2.jpg" data-magnify="gallery" class="mask">
     <img class="img-responsive rounded" src="assets/images/landing/crear_2.jpg" alt="Imágen añadir landing 2" />
 </a>
 </div>
     
-<div class="col-md-6 col-sm-6 col-xs-12">
+<div class="col-md-5 col-sm-6 col-xs-12">
     
 <p>1. Puedes colocar un texto descriptivo (es el que aparece en la parte inferior del titulo).</p>
 <p>2. Debes cargar la imagen con las dimensiones requeridas ya que serán el fondo del bloque</p>
