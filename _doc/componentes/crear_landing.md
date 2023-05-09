@@ -52,7 +52,7 @@ Para temas de SEO debes ingresar al siguiente enlace donde verás toda la inform
     
 <div class="col-md-6 col-sm-6 col-xs-12">
     
-<p>1. Puedes colocar un texto descriptivo (es el que aparece en la parte inferiór del titulo).</p>
+<p>1. Puedes colocar un texto descriptivo (es el que aparece en la parte inferior del titulo).</p>
 <p>2. Debes cargar la imagen con las dimensiones requeridas ya que serán el fondo del bloque</p>
 <p>**Para el botón es opcional agregar la información**</p>
 <p>3. Debes ingresar la url ya sea interna o externa </p>
