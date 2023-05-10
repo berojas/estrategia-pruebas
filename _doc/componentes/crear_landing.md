@@ -58,6 +58,7 @@ Para temas de SEO debes ingresar al siguiente enlace donde verás toda la inform
 <p>3. Debes ingresar la url ya sea interna o externa </p>
 <p>4. Texto del botón</p>
 <p>5. Puedes seleccionar el icono que aparecerá dentro del botón</p>
+<p>6. Al dar click al botón "Añadir contenido multimedia" agregarás mas bloques y repetir <a href="#paso-1" class="scrollto">el paso #1</a></p>
 </div>
 </div>
 
