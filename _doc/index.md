@@ -12,6 +12,7 @@ navigation:
   - /landing
   - /colores
   - /basic_page
+  - /menu_footer
 ---
 
 Esta guía de usuario explica en detalle cada uno de estos pasos y brindainformación de interés para personas con un conocimiento mínimo del sistema de gestión de contenido. 
