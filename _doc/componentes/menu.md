@@ -5,6 +5,7 @@ sections:
 ---
 
 Una vez iniciada su sesión, si un administrador te concedió los permisos adecuados, deberás ir al menú superior en la pestaña:
+
 Estructura -> Menús -> Navegación principal
 
 <a href="assets/images/menus/menu_1.jpg" data-magnify="gallery" class="mask">
@@ -24,16 +25,16 @@ Ya estando allí debes darle al botón **+ Añadir enlace**
 </div>
     
 <div class="col-md-5 col-sm-6 col-xs-12">
-    
 <p>1. Debes ingresar la url ya sea interna o externa (si es interna solo debes llamar el nombre de la página)</p>
 <p>2. Puedes ocultarla sin tener que eliminar</p>
 <p>3. El título que aparecerá en el menú</p>
 <p>4. Agregar una breve descripción</p>
 <p>5. Opción para mostrar abierto/expandido los submenus automaticamente</p>
 </div>
+</div>
 
 <h3>Parte 2</h3>
-
+<div class="row">
 <div class="col-md-7 col-sm-6 col-xs-12">
 <a href="assets/images/menus/menu_3.jpg" data-magnify="gallery" class="mask">
     <img class="img-responsive rounded" src="assets/images/menus/menu_3.jpg" alt="Imágen añadir 2" />
