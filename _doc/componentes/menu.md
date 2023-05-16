@@ -4,16 +4,18 @@ sections:
 - Añadir nuevo enlace
 ---
 
-Una vez iniciada su sesión, si un administrador te concedió los permisos adecuados, deberás ir al menú superior en la pestaña Estructura -> Menús -> Navegación principal
+Una vez iniciada su sesión, si un administrador te concedió los permisos adecuados, deberás ir al menú superior en la pestaña:
+Estructura -> Menús -> Navegación principal
 
 <a href="assets/images/menus/menu_1.jpg" data-magnify="gallery" class="mask">
-    <img class="img-responsive rounded" src="assets/images/menus/menu_1.jpg" alt="Menú pestaña" />
+    <img class="rounded" src="assets/images/menus/menu_1.jpg" alt="Menú pestaña" />
 </a>
 
 ## Añadir nuevo enlace 
 
 Ya estando allí debes darle al botón **+ Añadir enlace**
 
+### Parte 1
 <div class="row">
 <div class="col-md-7 col-sm-6 col-xs-12">
 <a href="assets/images/menus/menu_2.jpg" data-magnify="gallery" class="mask">
@@ -30,17 +32,17 @@ Ya estando allí debes darle al botón **+ Añadir enlace**
 <p>5. Opción para mostrar abierto/expandido los submenus automaticamente</p>
 </div>
 
-
+### Parte 2
 <div class="col-md-7 col-sm-6 col-xs-12">
-<b>Para el paso #6 debes desplegar la pestaña "atributos"</b>
-<p>6. Puedes abrirlo en una nueva pestaña dejando la opción "_blank" o dejando en la misma ventana "_self".</p>
-<p>7. Puedes asociarlo a un enlace padre o de segundo nivel</p>
+<a href="assets/images/menus/menu_3.jpg" data-magnify="gallery" class="mask">
+    <img class="img-responsive rounded" src="assets/images/menus/menu_3.jpg" alt="Imágen añadir 2" />
+</a> 
 </div>
     
 <div class="col-md-5 col-sm-6 col-xs-12">
-<a href="assets/images/menus/menu_3.jpg" data-magnify="gallery" class="mask">
-    <img class="img-responsive rounded" src="assets/images/menus/menu_3.jpg" alt="Imágen añadir 2" />
-</a>   
+<b>Para el paso #6 debes desplegar la pestaña "atributos"</b>
+<p>6. Puedes abrirlo en una nueva pestaña dejando la opción "_blank" o dejando en la misma ventana "_self".</p>
+<p>7. Puedes asociarlo a un enlace padre o de segundo nivel</p>
 </div>
 </div>
 
