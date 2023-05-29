@@ -1,5 +1,5 @@
 ---
-title: Editar contenido menú
+title: Editar/Agregar enlaces menú
 sections:
 - Añadir nuevo enlace
 ---
@@ -45,9 +45,10 @@ Ya estando allí debes darle al botón **+ Añadir enlace**
 <b>Para el paso #6 debes desplegar la pestaña "atributos"</b>
 <p>6. Puedes abrirlo en una nueva pestaña dejando la opción "_blank" o dejando en la misma ventana "_self".</p>
 <p>7. Puedes asociarlo a un enlace padre o de segundo nivel</p>
+<p>Al terminar de llenar los campos mencionados anteriormente, deberás darle al botón **"Guardar"**</p>
 </div>
 </div>
 
-Al terminar de llenar los campos mencionados anteriormente, deberás darle al botón **"Guardar"** 
+
 
 
